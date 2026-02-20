@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larisamariabota/AegisFS.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larisamariabota/AegisFS/issues"
+  },
+  "homepage": "https://github.com/larisamariabota/AegisFS#readme",
   "dependencies": {
     "express": "^5.2.1",
     "multer": "^2.0.2"
