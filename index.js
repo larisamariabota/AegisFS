@@ -4,7 +4,7 @@ const path = require('path');
 const { getFileHash } = require('./utils/hash');
 
 const app = express();
-const PORT = 3000;
+const PORT = 3001;
 
 // configurare upload folder temporar
 const upload = multer({ dest: 'uploads/' });
